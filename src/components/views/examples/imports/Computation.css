@@ -1,0 +1,64 @@
+.input {
+    background-color: transparent;
+    border: none;
+    border-style: none;
+    width: 70px;
+    font-size: 1.4rem;
+    margin: 0 10px;
+}
+
+.Comp {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: center;
+    margin: 20px;
+}
+
+.valores {
+    display: flex;
+}
+
+.entrada {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 5px;
+    font-size: 1.4rem;
+}
+
+.pre-entrada {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.btn {
+    color: #383838;
+    background-color: #FFDA05;
+    padding: 8px 64px;
+    border: none;
+    border-radius: 15px;
+    margin: 15px;
+    font-size: 1.2rem;
+}
+
+.btn:hover {
+    background-color: #FFDA0595;
+}
+
+.result .text {
+    padding: 5px 15px;
+    background-color: #383838;
+    border-radius: 20px;
+    margin-top: 10px;
+    color: #FFDA05;
+}
+
+.result {
+    margin: 20px;
+    font-size: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

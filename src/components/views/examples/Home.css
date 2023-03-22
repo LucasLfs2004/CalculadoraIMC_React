@@ -1,0 +1,11 @@
+.Home {
+    margin: 0;
+}
+
+.card {
+}
+
+.cardContent {
+    display: flex;
+    justify-content: space-around;
+}
